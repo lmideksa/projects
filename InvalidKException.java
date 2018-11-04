@@ -1,0 +1,1 @@
+public class InvalidKException extends InvalidTreeException {}
